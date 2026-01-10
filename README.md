@@ -59,3 +59,22 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+##ScreenShots
+
+<img width="1919" height="992" alt="1122" src="https://github.com/user-attachments/assets/f2f598d4-3dd8-42cf-a088-be70a0e5db46" />
+
+<img width="1919" height="991" alt="2" src="https://github.com/user-attachments/assets/e6a6ab81-477f-4353-8553-019f0a45f835" />
+
+<img width="1919" height="987" alt="3" src="https://github.com/user-attachments/assets/2079f530-bd20-4a6f-ab98-841fb2c8eaa9" />
+
+<img width="1919" height="990" alt="4" src="https://github.com/user-attachments/assets/1f7f517b-eb27-4e0f-b130-66d464e8c7ea" />
+
+<img width="1917" height="987" alt="5" src="https://github.com/user-attachments/assets/21eb6985-9f00-4982-be4d-d353fdf9a707" />
+
+<img width="1919" height="990" alt="6" src="https://github.com/user-attachments/assets/b331fb4c-16b5-46ea-9eba-e9d65a4fcc2f" />
+
+<img width="1914" height="993" alt="7" src="https://github.com/user-attachments/assets/ef1f0fc4-c057-4c99-871b-ebe7528033d0" />
+
+<img width="1919" height="988" alt="8" src="https://github.com/user-attachments/assets/5b67093d-ef66-4419-ae3b-b7e70256babc" />
+
